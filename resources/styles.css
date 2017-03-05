@@ -1,0 +1,27 @@
+*{
+    -fx-font-family: 'Varela Round';
+
+}
+
+.board {
+    -fx-background-color: grey;
+}
+
+.buttonsPanel {
+    -fx-background-color: white;
+    -fx-padding: 5px;
+    -fx-spacing: 5px;
+}
+
+.button {
+  -fx-border-radius: 6px;
+  -fx-border-width: 2px;
+  -fx-border-style: solid;
+  -fx-border-color: grey;
+  -fx-text-fill: grey;
+  -fx-background-color: none;
+  -fx-fill-width: true;
+  -fx-cursor: pointer;
+  -fx-font-size: 13px;
+  -fx-font-weight: bold;
+}
